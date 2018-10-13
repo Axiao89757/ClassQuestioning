@@ -1,0 +1,35 @@
+<view class='container0'>
+<!--头像与班级栏-->
+<view class="head">
+<view>
+<image class= "headPortrait" src="/images/headPortrait.jpg"></image>
+</view>
+<view style="display: flex; flex-direction: column">
+<text class="currentClass">当前班级:</text>
+<text class="className">电子信息工程1、2班</text></view>
+</view>
+
+
+<view style='display:flex; height:60vh; margin-top:5vh;' >
+<!--记录-->
+<view class="mark">
+<button class="m" >
+<text style="color:#fff;font-size:100rpx">记</text>
+</button>
+</view>
+
+<!--提问-->
+<view class="question">
+<button class="q">
+<text style="color:#fff;font-size:100rpx">问</text>
+</button>
+</view>
+</view>
+
+
+<view style="align-self:center; height:25vh; display:flex;">
+<text style="font-size:25rpx;margin-top: 220rpx;">反馈问题</text>
+</view>
+
+</view>
+

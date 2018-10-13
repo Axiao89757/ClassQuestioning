@@ -1,0 +1,80 @@
+.info2 {
+  font-weight:bold;
+  font-size:70rpx;
+}
+
+ .headPortrait {
+  width:170rpx;
+  height:170rpx;
+  border-radius: 50%;
+  margin-left: 50rpx;
+}
+
+.about-banner2 {
+  width:500rpx;
+  height:500rpx;
+}
+
+.container0 {
+  height: 100vh;
+  display: flex;
+  background-color: rgb(255, 255, 255);
+  flex-direction: column;
+
+}
+
+.head {
+  display: flex;
+  height: 15vh;
+  background-color: #87CEEB;
+}
+
+.mark {
+  width:50vh;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.question {
+  width: 50vh;
+  height: 50vh;
+  display: flex;
+  background-color: rgba(255, 255, 255, 0.445);
+}
+
+.currentClass {
+  font-size:30rpx;
+  align-self: flex-start;
+  margin-left: 80rpx;
+  margin-top: 75rpx;
+}
+
+.className{
+  margin-left: 80rpx;
+}
+
+.q {
+  margin-left: 0;
+  align-self: center;
+  height:200rpx;
+  width:310rpx; 
+  border-radius:50%; 
+  text-align:center;  
+  line-height:200rpx; 
+  background-color:rgba(68, 161, 214, 0.445);
+}
+
+.m {
+  margin-right: 0;
+  align-self: center;
+  height:200rpx;
+  width:310rpx; 
+  border-radius:50%; 
+  text-align:center;  
+  line-height:200rpx; 
+  background-color:rgba(68, 161, 214, 0.445);
+}
